@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "ms-dotnettools.csdevkit",
+    "ms-dotnettools.vscodeintellicode-csharp",
+    "kreativ-software.csharpextensions",
+    "aliasadidev.nugetpackagemanagergui",
+    "csharpier.csharpier-vscode",
+    "rangav.vscode-thunder-client",
+  ],
+}
